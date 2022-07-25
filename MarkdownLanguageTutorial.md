@@ -187,6 +187,8 @@ code
 
 
 ```
+# Using Toggle Table By Using Right Clicking
+
 Column A | Column B | Column C
 ---------|----------|---------
  A1 | B1 | C1
